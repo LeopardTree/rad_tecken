@@ -28,7 +28,6 @@ namespace rad_tecken
                 foreach (char chr in line)
                 {
                     
-                    
                     if(!char.IsWhiteSpace(chr))
                     {
                         countChars++;
